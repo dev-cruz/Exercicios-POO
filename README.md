@@ -20,7 +20,7 @@ $ git status # Irá mostrar que o arquivo foi modificado
 
 $ git add . # Adicionará todas as suas mudanças
 
-$ git commit -m "<MENSAGEM-DO-COMMMIT>" # Na mensagem do commit coloque a principal alteração você fez no projeto.
+$ git commit -m "<MENSAGEM-DO-COMMIT>" # Na mensagem do commit coloque a principal alteração você fez no projeto.
 
 $ git push origin master # Enviará suas alterações para o repositório no servidor
 ```
